@@ -9,3 +9,5 @@ Simulates a T-intersection traffic light system while constantly checking for th
 `Tej_Circuit.png` is a picture displaying the wiring and connections of each component of the traffic light model
 
 `traffic light (1).png` is a rendered model of the traffic light system that I later built in real life. 
+
+`TEJ ISP - Final Report.pdf` is a final report on the project, including a more detailed description of how it works.
